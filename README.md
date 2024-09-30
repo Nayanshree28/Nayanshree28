@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nayanshree Mishra</h1>
-<h3 align="center">I am proficient in C++ programming and deeply passionate about competitive coding. Additionally, I specialize in machine learning development.</h3>
+<h3 align="center">I am proficient in C++ programming and deeply passionate about competitive coding. Additionally, I specialize in MERN Stack Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanshree28&label=Profile%20views&color=0e75b6&style=flat" alt="nayanshree28" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayanshree28" alt="nayanshree28" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nayanshree28](https://github.com/Nayanshree28)
 
